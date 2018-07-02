@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Woodbridge Real Estate Video Blog with Vicky Durandisse
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -7,20 +7,22 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Vicky Durandisse
   title:
   license_number:
   about_markdown: |
+    Vicky Durandisse is born and raised in the Washington Metropolitan area. Vicky Specializes in helping her clients sell or buy for the best price, in the least amount of time with minimal hassle. Her goal is to take the stress out of the Real Estate process for each and every client.
 
-  market:
-  brand:
+    Growing up in Lyon Park in Arlington, VA enabled her to learn about many different cultures as Northern Virginia is one big melting pot. She studied Business Marketing at Howard University in Washington, DC and has been a licensed Realtor since 2004. With 13 years and counting of experience in the Real Estate Industry; you can count on her exclusive knowledge of the Washington Metropolitan Region to help you navigate the ins and outs of our complex but beautiful community.
+  market: Woodbridge
+  brand: Golston Real Estate
   brokerage:
-  address:
-  phone:
+  address: 12968 Mandolin Lane, Woodbridge, VA, 22192
+  phone: 202-904-9944
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: VickyDurandisse@gmail.com
   url:
 
 CTAs:
@@ -57,7 +59,7 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/athomewithvicky/
   linkedin_url:
   gplus_url:
   youtube_url:
@@ -87,8 +89,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#6c887c'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -100,7 +102,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: '#ffffff'
 
 buttons:
   button_radius_number: 0
