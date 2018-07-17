@@ -49,13 +49,11 @@ lender:
   show_section: true
   header_text: Preferred Lender
   headshot_path: /img/nick.jpg
-  logo_path:
-  logo_path_2:
   name: Nick Muro<br>Sr. Loan Officer<br>NMLS ID# 17542
   brand: First Heritage Mortgage, LLC
   phone: 240-223-1715
   email: nmuro@fhmtg.com
-  url: http://www.fhmtg.com/nick-muro
+  url: https://www.fhmtg.com/nick-muro
 
 socials:
   review_sm_icons: false
