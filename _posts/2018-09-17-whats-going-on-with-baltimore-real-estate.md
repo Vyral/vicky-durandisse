@@ -5,14 +5,12 @@ date: 2018-09-17 19:47:00
 tags:
   - Market Update
 excerpt: >-
-  You need to make sure that an agent you’re hiring is experienced and
-  productive. Here are five questions to ask that will help you determine that
-  about an agent.
+  I’m back with your market update! Buyers and sellers both need to act quickly
+  in order to finish their transactions while the market is still amenable.
 enclosure:
 pullquote: >-
-  Realtors can tell you how great they are until they’re blue in the face, but
-  to hear the actual experience from a past client will give you genuine
-  feedback about what you can expect from the Realtor.
+  The one thing about real estate that is constant is that it isn’t
+  constant—it’s always changing.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
