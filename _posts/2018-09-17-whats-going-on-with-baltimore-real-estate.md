@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going on With Baltimore Real Estate?
-date: 2018-09-17 19:47:33
+date: 2018-09-17 19:47:00
 tags:
   - Market Update
 excerpt: >-
@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/vicky-durandisse-logo.png
+youtube_alternate_image: /uploads/vicky-durandisse-act-quickly-youtube.jpg
 youtube_code: 'https://youtu.be/d3hab-_kmpw'
 ---
 
