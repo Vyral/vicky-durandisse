@@ -1,16 +1,23 @@
 ---
 layout: post
 title: What’s Going on With Baltimore Real Estate?
-date:
+date: 2018-09-17 19:47:33
 tags:
-excerpt:
+  - Market Update
+excerpt: >-
+  You need to make sure that an agent you’re hiring is experienced and
+  productive. Here are five questions to ask that will help you determine that
+  about an agent.
 enclosure:
-pullquote:
+pullquote: >-
+  Realtors can tell you how great they are until they’re blue in the face, but
+  to hear the actual experience from a past client will give you genuine
+  feedback about what you can expect from the Realtor.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/vicky-durandisse-logo.png
-youtube_code:
+youtube_code: 'https://youtu.be/d3hab-_kmpw'
 ---
 
 {% include youtube.html %}
@@ -19,7 +26,7 @@ It’s been a while since I’ve brought you a market report, and I think it’s
 
 In Baltimore, there is a lot of fear that the market is crashing. Values of homes are going down, which worries builders in the area.
 
-However, the one thing about real estate that is constant is that it isn’t constant—it’s always changing. To be successful, you need to learn how to ride the wave.&nbsp;
+However, the one thing about real estate that is constant is that it isn’t constant—it’s always changing. To be successful, you need to learn how to ride the wave. 
 
 **So if you don’t have any plans to be an investor but you do want to be a homeowner, what do you need to do?**
 
