@@ -24,7 +24,7 @@ It’s been a while since I’ve brought you a market report, and I think it’s
 
 In Baltimore, there is a lot of fear that the market is crashing. Values of homes are going down, which worries builders in the area.
 
-However, the one thing about real estate that is constant is that it isn’t constant—it’s always changing. To be successful, you need to learn how to ride the wave. 
+However, the one thing about real estate that is constant is that it isn’t constant—it’s always changing. To be successful, you need to learn how to ride the wave.&nbsp;
 
 **So if you don’t have any plans to be an investor but you do want to be a homeowner, what do you need to do?**
 
@@ -34,7 +34,7 @@ Those of you who are motivated to take action, send me a message and we can talk
 
 For sellers, **you need to know how much equity you have in your house.** If you give me a call, we can schedule a time to do a free market analysis so I can tell you how much your home is worth and what the homes in your neighborhood have sold for; we’ll compare that to what you owe the bank to see how much money you’ll make if you sell your home now.
 
-**When the market goes down, sellers will lose equity as home prices decrease,** which is why it’s in your best interest to find out how much equity you have in your home and whether or not it makes sense for your you to sell it now or to hold it for a little longer.
+**When the market goes down, sellers will lose equity as home prices decrease,** which is why it’s in your best interest to find out how much equity you have in your home and whether or not it makes sense for you to sell it now or to hold it for a little longer.
 
 If you’re not planning to sell your house right now, **I can still give you an estimate of how long you’ll have to stay in that house—when the market shifts, you won’t be able to sell your house as easily.**
 
