@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Going on With Baltimore Real Estate?
+title: What's Going on in Maryland and Virginia Real Estate
 date: 2018-09-17 19:47:00
 tags:
   - Market Update
@@ -24,7 +24,7 @@ It’s been a while since I’ve brought you a market report, and I think it’s
 
 In Baltimore, there is a lot of fear that the market is crashing. Values of homes are going down, which worries builders in the area.
 
-However, the one thing about real estate that is constant is that it isn’t constant—it’s always changing. To be successful, you need to learn how to ride the wave.&nbsp;
+However, the one thing about real estate that is constant is that it isn’t constant—it’s always changing. To be successful, you need to learn how to ride the wave. 
 
 **So if you don’t have any plans to be an investor but you do want to be a homeowner, what do you need to do?**
 
