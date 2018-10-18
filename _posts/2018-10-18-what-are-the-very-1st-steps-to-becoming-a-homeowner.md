@@ -28,8 +28,8 @@ The next step, after desire, is **taking action. Call a lender!** You can’t pu
 
 {% include pullquote.html %}
 
-If you have an average credit score of 620 or higher, you’re in luck! That’s the score most lenders are looking for. For a score below that point, a good lender will give you the steps you need to take to improve your credit. Ask for a credit analyzer; if the lender doesn’t have a credit analyzing tool, they’re not the lender for you. A great lender will be able to help you calculate your debt-to-income ratio and determine how much you qualify for.
+If you have an average credit score of 620 or higher, you’re in luck! That’s the score most lenders are looking for. For any score below that mark, a good lender will show you the steps you need to take to improve your credit. Ask for a credit analyzer; if the lender doesn’t have a credit analyzing tool, they’re not the lender for you. A great lender will be able to help you calculate your debt-to-income ratio and determine how much you qualify for.
 
-Once you finish this pre-approval process, **then you can call your local Realtor** (that’s me!) and we can sit down and have a conversation about what steps you need to take next in order to make your dream of owning a home come true. Usually, that’s going out and looking for a house you love and can afford.
+Once you finish this pre-approval process, **then you can call your local Realtor** (that means me!) and we can sit down and have a conversation about what steps you need to take next in order to make your dream of owning a home come true. Usually, that’s going out and looking for a house you love and can afford.
 
 If you or someone you know are thinking about buying or selling real estate, or if you have any more questions on this topic, I’d be happy to answer them for you. All you have to do is reach out to me, and together, we can make it happen for you.
