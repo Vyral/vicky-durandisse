@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the Very 1st Steps to Becoming a Homeowner?
-date: 2018-10-18 15:22:15
+date: 2018-10-18 15:22:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/vicky-durandisse-first-steps-to-becoming-a-homeowner-youtube.jpg
-youtube_code: 'https://youtu.be/RBOqqSI6fuA'
+youtube_code: 'https://youtu.be/2cBl08RKB_Y'
 ---
 
 {% include youtube.html %}
