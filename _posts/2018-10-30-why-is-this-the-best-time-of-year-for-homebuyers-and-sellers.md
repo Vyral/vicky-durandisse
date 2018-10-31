@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/uVEz_jBOVA8'
 
 It’s time for a fourth quarter real estate market update as we head closer to the end of 2018. Here’s what we’re seeing out in the Golston market right now. Contrary to popular belief, it’s a great time to sell. Most home sellers think that this is a bad time of year to list for many reasons, including holidays, the weather, and more. **There are plenty of excuses out there for home sellers to use, but here is the truth.**
 
-This is the best time of year for you to sell your home. You’ll have less competition, for starters. **Additionally, this is the time of year where military buyers are coming to buy now in anticipation of their relocation.** It’s also the second-biggest time of year for families with children to move as well.&nbsp;
+This is the best time of year for you to sell your home. You’ll have less competition, for starters. **Additionally, this is the time of year where military buyers are coming to the market in anticipation of their relocation.** It’s also the second-biggest time of year for families with children to move as well.&nbsp;
 
 Everyone on the block will put their home on the market come spring and summer, but if you’re on the market now, you can take advantage of the current conditions and sell quickly for a great price.
 
