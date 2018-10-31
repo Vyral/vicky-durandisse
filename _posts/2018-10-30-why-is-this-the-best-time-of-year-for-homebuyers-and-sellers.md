@@ -27,7 +27,7 @@ Everyone on the block will put their home on the market come spring and summer, 
 
 {% include pullquote.html %}
 
-**As far as homebuyers are concerned, this is also a good time for them to get involved in the market.** Many home sellers are under the impression that nobody is going to look at their home during this time of year. These sellers are highly motivated during this time of year and will be easier to negotiate with than they will be in spring and summer, when there is a plethora of buyers and multiple-offer situations. Interest rates have gone up a bit in the past year, but they haven’t risen too far. Homes are still affordable, and this is a perfect time to buy.&nbsp;
+**As far as homebuyers are concerned, this is also a good time for them to get involved in the market.** Many home sellers are under the impression that nobody is going to look at their home during this time of year. These sellers are highly motivated during this time of year and will be easier to negotiate with than they will be in spring and summer when there is a plethora of buyers and multiple-offer situations. Interest rates have gone up a bit in the past year, but they haven’t risen too far. Homes are still affordable, and this is a perfect time to buy.&nbsp;
 
 **Economic reports are indicating that rates will continue to go up, meaning that buyer pools will shrink and homes will become more expensive.** Getting into the market now will result in the perfect time for you to get into the real estate market whether you’re a buyer or seller.
 
