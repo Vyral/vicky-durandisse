@@ -29,7 +29,7 @@ When pricing your home, you don’t want to think about what one of your neighbo
 
 In essence, **your home’s market value is whatever the consumer is willing to pay for it.** Every area is different, which is why it’s important to meet with an agent when calculating your home’s market value.&nbsp;
 
-A lot of people assume that adding $20,000 worth of upgrades or renovations into their house means they can automatically add that $20,000 sum to their list price, but that’s not the case. The market analysis process is basically the same process an appraiser takes when valuing your home, except they’re a bit stricter, so don’t think that making upgrades to your home will raise its value. There are, however, certain upgrades you can make that will be more appealing to buyers, and that’s where the value of making upgrades lies.&nbsp;
+A lot of people assume that adding $20,000 worth of upgrades or renovations in their house means they can automatically add that $20,000 sum to their list price, but that’s not the case. The market analysis process is basically the same process an appraiser takes when valuing your home, except they’re a bit stricter, so don’t think that making upgrades to your home will raise its value. There are, however, certain upgrades you can make that will be more appealing to buyers, and that’s where the value of making upgrades lies.&nbsp;
 
 So, to answer this question, **the market determines the price of your home and what it will sell for.&nbsp;**
 
