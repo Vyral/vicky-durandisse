@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/GHqF4rSCI2Q'
 
 {% include youtube.html %}
 
-If you’ve listed your ho me but haven’t received any offers, what should you do? First of all, you need to realize that **there are four primary factors that cause listings to sell:&nbsp;**
+If you’ve listed your home but haven’t received any offers, what should you do? First of all, you need to realize that **there are four primary factors that cause listings to sell:&nbsp;**
 
 1. Price
 2. Condition
